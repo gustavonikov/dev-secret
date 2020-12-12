@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 let conn = null
-const URI = 'mongodb+srv://nikov-dev-week:UiONgchmq3vRctpK@cluster0.xhtam.mongodb.net/<dbname>?retryWrites=true&w=majority'
+const URI = process.env.MONDODB_URI_ACCESS;
 
 module.exports = async () => {
     if (!conn) {
