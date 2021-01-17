@@ -9,7 +9,7 @@ or you can download the zip file and open it in your IDE.
 ### IMPORTANT!
 The server of this project is offline, so you can use him on development mode or you can see the layout on the vercel link :)<br />
 
-### Below you can see the two pages that you won't be able to see because the server is offline:
+### Below you can see 1. Participant's page and 2. Admin's page that you won't be able to see because the server is offline:
 
 ![participants-page](/frontend/public/images/participants-page.png)
 <br />
