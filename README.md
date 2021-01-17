@@ -13,4 +13,5 @@ The server of this project is offline, so you can use him on development mode or
 
 ![participants-page](/frontend/public/images/participants-page.png)
 <br />
+<br />
 ![admin-page](/frontend/public/images/admin-page.png)
