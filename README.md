@@ -17,7 +17,7 @@ Participants page, where you can register yourself after the admin sends the lin
 ![participants-page](frontend/public/images/participants-page.png)
 <br />
 <br />
-Admin page, where the admin can share the link to Secret Santa game, and he can also shuffle and start the game, or delete participants.]
+Admin page, where the admin can share the link to Secret Santa game, and he can also shuffle and start the game, or delete participants.
 <br />
 <br />
 ![admin-page](frontend/public/images/admin-page.png)
