@@ -13,11 +13,9 @@ The server of this project is offline, so you can use him on development mode or
 <br />
 Participants page, where you can register yourself after the admin sends the link to you.
 <br />
-<br />
 ![participants-page](frontend/public/images/participants-page.png)
 <br />
 <br />
 Admin page, where the admin can share the link to Secret Santa game, and he can also shuffle and start the game, or delete participants.
-<br />
 <br />
 ![admin-page](frontend/public/images/admin-page.png)
