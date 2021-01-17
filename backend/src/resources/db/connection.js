@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 let conn = null
-const URI = process.env.MONDODB_URI_ACCESS;
+const URI = 'your link from MongoDB Atlas';
 
 module.exports = async () => {
     if (!conn) {

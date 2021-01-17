@@ -54,4 +54,3 @@ functions:
             origin: '*'
             headers:
               - admin-key
-

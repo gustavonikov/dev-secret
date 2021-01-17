@@ -7,7 +7,7 @@ const SecretModel = require('../resources/db/models/Secret');
 module.exports.create = async (event, context) => {
     context.callBackWaitsForEmptyEventLoop = false;
 
-    const { id: secretId } = event.pathParameters
+    const { id: secretId } = event.pathParameters;
     const { name, email } = JSON.parse(event.body);
     const externalId = uuidv4();
 
